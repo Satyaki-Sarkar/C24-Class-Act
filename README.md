@@ -1,1 +1,1 @@
-# C24-Class-Act
+# Box Class
